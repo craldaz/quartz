@@ -1,6 +1,6 @@
 # Quartz
-Host your own second brain and digital garden for free.
+This was downloaded from J Zhao
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+click the link below for my github page build
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+🔗 Get Started: https://craldaz.github.io/quartz/
